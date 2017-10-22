@@ -3,6 +3,7 @@
 CRUD (create, read, update, delete). 
 
 Для запуска приложения можно выполнить: 
+
 Вариант 1
 mvn clean package
 mvn tomcat7:run
