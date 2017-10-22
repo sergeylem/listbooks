@@ -12,7 +12,7 @@ http://localhost:8080/
 Вариант 2
 С помощью Intellij IDEA
 Импортировать Pom.xml.
-В Project Structure --> Modules --> Web --> Web Resource Directory должен быть установлен путь:
+В Project Structure --> Facets --> Web --> Web Resource Directory должен быть установлен путь:
 … \src\main\webapp.
 Запустить через Tomcat 8 
 
